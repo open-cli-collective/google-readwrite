@@ -1,3 +1,5 @@
+> **Archived.** `grw` now lives in [open-cli-collective/google-cli](https://github.com/open-cli-collective/google-cli) alongside `gro`. Releases, packages, and issues continue there; install with `brew install open-cli-collective/tap/grw` (the `google-readwrite` cask alias still resolves).
+
 # google-readwrite (`grw`)
 
 A read-write command-line interface for Gmail cleanup and organization. `grw` is
